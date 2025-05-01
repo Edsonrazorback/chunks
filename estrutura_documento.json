@@ -1,0 +1,94 @@
+{
+  "documento": {
+    "tipo": "Decreto",
+    "numero": "23.569 DE 11 DE DEZEMBRO DE 1933.",
+    "link_oficial": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d23569.htm"
+  },
+  "estrutura": {
+    "I": {
+      "titulo": "",
+      "artigos": [
+        "Art. 1",
+        "Art. 2",
+        "Art. 3",
+        "Art. 4",
+        "Art. 6",
+        "Art. 7",
+        "Art. 8",
+        "Art. 9"
+      ],
+      "pos_inicio": 396
+    },
+    "II": {
+      "titulo": "",
+      "artigos": [
+        "Art. 10",
+        "Art. 11",
+        "Art. 12",
+        "Art. 13",
+        "Art. 14",
+        "Art. 15",
+        "Art. 16"
+      ],
+      "pos_inicio": 7545
+    },
+    "III": {
+      "titulo": "",
+      "artigos": [
+        "Art. 18",
+        "Art. 19",
+        "Art. 20",
+        "Art. 22",
+        "Art. 23",
+        "Art. 24",
+        "Art. 25",
+        "Art. 26",
+        "Art. 27"
+      ],
+      "pos_inicio": 10204
+    },
+    "IV": {
+      "titulo": "",
+      "artigos": [
+        "Art. 28",
+        "Art. 29",
+        "Art. 30",
+        "Art. 31",
+        "Art. 32",
+        "Art. 33",
+        "Art. 34",
+        "Art. 35",
+        "Art. 36",
+        "Art. 37"
+      ],
+      "pos_inicio": 15319
+    },
+    "V": {
+      "titulo": "",
+      "artigos": [
+        "Art. 38",
+        "Art. 39",
+        "Art. 40",
+        "Art. 41",
+        "Art. 42",
+        "Art. 43",
+        "Art. 44"
+      ],
+      "pos_inicio": 21302
+    },
+    "VI": {
+      "titulo": "",
+      "artigos": [
+        "Art. 15",
+        "Art. 46",
+        "Art. 47",
+        "Art. 48",
+        "Art. 50",
+        "Art. 51",
+        "Art. 52",
+        "Art. 53"
+      ],
+      "pos_inicio": 24931
+    }
+  }
+}
